@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <h2>Welcome to autosuggest highlight app</h2>
       <SearchBox />
     </div>

@@ -5,6 +5,18 @@ React based auto suggest component along with highlighted text in the result.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live:
+
+[Autosuggest Highlight App](https://mazzzy.github.io/autosuggest-highlight/)
+# Screenshots
+
+## Desktop view
+
+<p align="center">
+  <img src="screenshots/autosuggest-homepage.png" alt="autosuggest-homepage"/>
+  <br/>
+</p>
+
 ## Available Scripts
 
 In the project directory, you can run:
