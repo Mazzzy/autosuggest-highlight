@@ -1,0 +1,22 @@
+.infobox {
+    flex: 1 1 22%;
+    margin: 0 0.4rem;
+    background: #222;
+}
+
+.infobox .title {
+    background: #111;
+    color: #da4551;
+    font-size: 1.2rem;
+    font-weight: 800;
+    padding: 0.5rem;
+    border-bottom: 1px solid #000;
+}
+
+.infobox .content {
+    line-height: 1.6;
+    padding: 10px;
+    font-weight: 400;
+    font-size: 1rem;
+    color: #ccc;
+}
